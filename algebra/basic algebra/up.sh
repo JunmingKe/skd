@@ -1,4 +1,4 @@
 git add .
-git commit -m 'commit by up.sh'
+git commit -m 'By up.sh'
 git push
 git remote -v
